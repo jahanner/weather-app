@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "esm": "^3.2.25",
     "express": "^4.16.4",
+    "handlebars": "^4.1.2",
     "hbs": "^4.0.4",
+    "lodash": "^4.17.14",
     "mapbox-gl": "^1.0.0",
     "request": "^2.88.0"
   },
